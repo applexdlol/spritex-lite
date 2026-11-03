@@ -1,6 +1,6 @@
 # SpriteX Lite
 
-**Free Tampermonkey userscript · Version 1.3.4**
+**Free Tampermonkey userscript · Version 1.3.5**
 
 [**Install SpriteX Lite**](https://raw.githubusercontent.com/applexdlol/spritex-lite/refs/heads/main/SpriteX.user.js)
 
