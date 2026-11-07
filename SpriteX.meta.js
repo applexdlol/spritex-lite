@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SpriteX Lite
 // @namespace    spritex.lite.public
-// @version      1.3.6
+// @version      1.3.7
 // @description  SpriteX
 // @author       Sprite
 // @match        https://starve.io/*
