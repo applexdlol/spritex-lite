@@ -1,12 +1,12 @@
 # SpriteX Lite
 
-**Free Tampermonkey userscript · Version 1.3.8**
+**Free Tampermonkey userscript · Version 1.3.9**
 
 [**Install or update SpriteX Lite**](https://raw.githubusercontent.com/applexdlol/spritex-lite/refs/heads/main/SpriteX.user.js)
 
 ## Update required
 
-Version 1.3.8 replaces the old public builds. The 1.3.4 and 1.3.5 build folders have been removed from the current repository. Open the install link and confirm the update in Tampermonkey, then reload Starve.io. Tampermonkey can also check this repository for updates automatically.
+Version 1.3.9 replaces the old public builds. The 1.3.4 and 1.3.5 build folders have been removed from the current repository. Open the install link and confirm the update in Tampermonkey, then reload Starve.io. Tampermonkey can also check this repository for updates automatically.
 
 Deleting old files does not erase downloaded or cached copies, or historical Git commits. A public client-side script cannot remotely erase an installation.
 
