@@ -33,7 +33,7 @@ Open the installation link again, confirm the update in Tampermonkey, then reloa
 
 ## Support
 
-**spritex.support@gmail.com**
+**https://discord.gg/qKbJ7TUZdC**
 
 ## Notice
 
