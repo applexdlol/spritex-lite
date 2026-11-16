@@ -6,4 +6,3 @@ New downloads contain an offline notice, not the gameplay script. Disable Sprite
 
 SpriteX Pro and Beta shut down November 16, 2026 at 5:00 PM Pacific (01:00 UTC November 17).
 
-Previously downloaded copies, Git history, and third-party copies cannot be remotely erased.
